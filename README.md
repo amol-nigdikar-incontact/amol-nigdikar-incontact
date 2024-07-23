@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amol Nigdikar
-- 🏢 Sr. Sotware Engineer @NICE 
+- 🏢 Sr. Software Engineer @NICE 
 - 👀 I’m interested in ... Software Development
 - 🌱 I’m currently learning ... AWS, Kubernetes
 - 📫 How to reach me ... amol.nigdikar@nice.com
